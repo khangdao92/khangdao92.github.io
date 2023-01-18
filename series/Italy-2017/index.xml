@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Italy 2017 on Khang&#39;s blog</title>
+    <link>http://example.org/series/Italy-2017/</link>
+    <description>Recent content in Italy 2017 on Khang&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>khangdao92@gmail.com (Manh Khang DAO)</managingEditor>
+    <webMaster>khangdao92@gmail.com (Manh Khang DAO)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/series/Italy-2017/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Venice 2017</title>
+        <link>http://example.org/gallery/Venice-2017/</link>
+        <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        <atom:modified>Thu, 20 Jul 2017 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/gallery/Venice-2017/</guid>
+        <description>Mùa hè năm 2017</description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        <media:content url="http://example.orgimages/feature2/Venice.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>travelling</category>
+            
+          
+            
+              <category>photography</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Italy 2017</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

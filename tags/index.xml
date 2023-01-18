@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Khang&#39;s blog</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Khang&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>khangdao92@gmail.com (Manh Khang DAO)</managingEditor>
+    <webMaster>khangdao92@gmail.com (Manh Khang DAO)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Jan 2023 14:00:11 -0500</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>photography</title>
+        <link>http://example.org/tags/photography/</link>
+        <pubDate>Mon, 16 Jan 2023 14:00:11 -0500</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        
+        <guid>http://example.org/tags/photography/</guid>
+        <description></description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>travelling</title>
+        <link>http://example.org/tags/travelling/</link>
+        <pubDate>Mon, 16 Jan 2023 14:00:11 -0500</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        
+        <guid>http://example.org/tags/travelling/</guid>
+        <description></description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>http://example.org/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        
+        <guid>http://example.org/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

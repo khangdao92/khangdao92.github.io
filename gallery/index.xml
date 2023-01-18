@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Galleries on Khang&#39;s blog</title>
+    <link>http://example.org/gallery/</link>
+    <description>Recent content in Galleries on Khang&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>khangdao92@gmail.com (Manh Khang DAO)</managingEditor>
+    <webMaster>khangdao92@gmail.com (Manh Khang DAO)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Jan 2023 14:00:11 -0500</lastBuildDate>
+    
+        <atom:link href="http://example.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Stockholm 2022</title>
+        <link>http://example.org/gallery/Stockholm/</link>
+        <pubDate>Mon, 16 Jan 2023 14:00:11 -0500</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        <atom:modified>Mon, 16 Jan 2023 14:00:11 -0500</atom:modified>
+        <guid>http://example.org/gallery/Stockholm/</guid>
+        <description>Một ngày mùa đông ở Stockholm</description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        <media:content url="http://example.orgimages/feature2/Stockholm.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>travelling</category>
+            
+          
+            
+              <category>photography</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Sweden</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Boston 2022</title>
+        <link>http://example.org/gallery/Boston/</link>
+        <pubDate>Fri, 16 Dec 2022 13:39:40 -0500</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        <atom:modified>Fri, 16 Dec 2022 13:39:40 -0500</atom:modified>
+        <guid>http://example.org/gallery/Boston/</guid>
+        <description>Boston is the first city in our Dec 2022 - Jan 2023 trip.</description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        <media:content url="http://example.orgimages/feature2/Boston.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>travelling</category>
+            
+          
+            
+              <category>photography</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>USA 2022-2023</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Venice 2017</title>
+        <link>http://example.org/gallery/Venice-2017/</link>
+        <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+        <author>khangdao92@gmail.com (Manh Khang DAO)</author>
+        <atom:modified>Thu, 20 Jul 2017 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/gallery/Venice-2017/</guid>
+        <description>Mùa hè năm 2017</description>
+        
+        <dc:creator>Manh Khang DAO</dc:creator>
+        <media:content url="http://example.orgimages/feature2/Venice.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>travelling</category>
+            
+          
+            
+              <category>photography</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Italy 2017</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
