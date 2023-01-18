@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Sweden on Khang&#39;s blog</title>
-    <link>http://example.org/series/Sweden/</link>
+    <link>https://khangdao92.github.io/series/Sweden/</link>
     <description>Recent content in Sweden on Khang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Jan 2023 14:00:11 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/series/Sweden/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://khangdao92.github.io/series/Sweden/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Stockholm 2022</title>
-        <link>http://example.org/gallery/Stockholm/</link>
+        <link>https://khangdao92.github.io/gallery/Stockholm/</link>
         <pubDate>Mon, 16 Jan 2023 14:00:11 -0500</pubDate>
         <author>khangdao92@gmail.com (Manh Khang DAO)</author>
         <atom:modified>Mon, 16 Jan 2023 14:00:11 -0500</atom:modified>
-        <guid>http://example.org/gallery/Stockholm/</guid>
+        <guid>https://khangdao92.github.io/gallery/Stockholm/</guid>
         <description>Một ngày mùa đông ở Stockholm</description>
         
         <dc:creator>Manh Khang DAO</dc:creator>
-        <media:content url="http://example.orgimages/feature2/Stockholm.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://khangdao92.github.io/images/feature2/Stockholm.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Khang&#39;s blog</title>
-    <link>http://example.org/series/</link>
+    <link>https://khangdao92.github.io/series/</link>
     <description>Recent content in Series on Khang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Jan 2023 14:00:11 -0500</lastBuildDate>
     
-        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://khangdao92.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Sweden</title>
-        <link>http://example.org/series/Sweden/</link>
+        <link>https://khangdao92.github.io/series/Sweden/</link>
         <pubDate>Mon, 16 Jan 2023 14:00:11 -0500</pubDate>
         <author>khangdao92@gmail.com (Manh Khang DAO)</author>
         
-        <guid>http://example.org/series/Sweden/</guid>
+        <guid>https://khangdao92.github.io/series/Sweden/</guid>
         <description></description>
         
         <dc:creator>Manh Khang DAO</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>USA 2022-2023</title>
-        <link>http://example.org/series/USA-2022-2023/</link>
+        <link>https://khangdao92.github.io/series/USA-2022-2023/</link>
         <pubDate>Fri, 16 Dec 2022 13:39:40 -0500</pubDate>
         <author>khangdao92@gmail.com (Manh Khang DAO)</author>
         
-        <guid>http://example.org/series/USA-2022-2023/</guid>
+        <guid>https://khangdao92.github.io/series/USA-2022-2023/</guid>
         <description></description>
         
         <dc:creator>Manh Khang DAO</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Italy 2017</title>
-        <link>http://example.org/series/Italy-2017/</link>
+        <link>https://khangdao92.github.io/series/Italy-2017/</link>
         <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
         <author>khangdao92@gmail.com (Manh Khang DAO)</author>
         
-        <guid>http://example.org/series/Italy-2017/</guid>
+        <guid>https://khangdao92.github.io/series/Italy-2017/</guid>
         <description></description>
         
         <dc:creator>Manh Khang DAO</dc:creator>
